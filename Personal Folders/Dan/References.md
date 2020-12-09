@@ -1,4 +1,8 @@
+-   Previous Projects/Assignments/Exercises
 -   https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.to_csv.html
--   https://plotnine.readthedocs.io/en/stable/api.html#geoms
+-   https://plotnine.readthedocs.io/en/stable/api.html
 -   https://ggplot2.tidyverse.org/reference/
--
+-   http://www.sthda.com/english/wiki/
+-   https://stackoverflow.com/questions/50599991/plotnine-mapping-variable-to-scale-color-gradient
+-   https://coolors.co/
+-   https://www.r-graph-gallery.com/48-grouped-barplot-with-ggplot2.html
