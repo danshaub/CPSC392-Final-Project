@@ -1,0 +1,4 @@
+-   https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.to_csv.html
+-   https://plotnine.readthedocs.io/en/stable/api.html#geoms
+-   https://ggplot2.tidyverse.org/reference/
+-
