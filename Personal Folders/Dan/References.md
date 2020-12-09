@@ -6,3 +6,4 @@
 -   https://stackoverflow.com/questions/50599991/plotnine-mapping-variable-to-scale-color-gradient
 -   https://coolors.co/
 -   https://www.r-graph-gallery.com/48-grouped-barplot-with-ggplot2.html
+-   https://github.com/karthik/wesanderson
