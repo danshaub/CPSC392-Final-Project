@@ -16,3 +16,5 @@
 -   https://stackoverflow.com/questions/7257372/set-font-properties-to-tick-labels-with-matplot-lib#comment8750975_7257372
 -   https://github.com/scikit-learn/scikit-learn/issues/11444
 -   https://stackoverflow.com/questions/29643352/converting-hex-to-rgb-value-in-python
+-   https://stackoverflow.com/questions/49981313/rotate-interactively-a-3d-plot-in-python-matplotlib-jupyter-notebook
+-   https://chartio.com/resources/tutorials/how-to-save-a-plot-to-a-file-using-matplotlib/
