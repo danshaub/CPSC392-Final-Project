@@ -1,6 +1,11 @@
 # CPSC392-Final-Project
 
-### Keivan Golchini, Trevor Skyes, Dan Haub
+## Dan Haub
+
+### Links
+
+    [Overview Video](https://www.youtube.com/watch?v=pqYxKSnv_1A&feature=youtu.be&ab_channel=DanHaub)
+    [Jupyter Notebook](https://github.com/danshaub/CPSC392-Final-Project/blob/main/Notebooks/Dan-FP.ipynb)
 
 ### Known errors
 
