@@ -5,6 +5,7 @@
 ### Links
 
 [Overview Video](https://www.youtube.com/watch?v=pqYxKSnv_1A&feature=youtu.be&ab_channel=DanHaub)
+<br>
 [Jupyter Notebook](https://github.com/danshaub/CPSC392-Final-Project/blob/main/Notebooks/Dan-FP.ipynb)
 
 ### Known errors
